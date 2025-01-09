@@ -1,0 +1,10 @@
+node_modules/
+package.json
+package-lock.json
+eslint.config.mjs
+stylelint.config.mjs
+.prettierrc.json
+.sqruff
+.projectile
+tags
+TAGS
