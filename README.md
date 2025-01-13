@@ -14,6 +14,9 @@ _[Linux Professional Institute](https://www.lpi.org/)_.
 -   This project will loosely tied to the certification scope but some
     technologies may be added, removed, or replaced.
 
+-   If possible, I will try to avoid using additional libraries or
+    frameworks.
+
 -   The following technologies will be used for this project:
 
     -   HTML
@@ -24,8 +27,8 @@ _[Linux Professional Institute](https://www.lpi.org/)_.
     -   [ExpressJS](https://expressjs.com/)
     -   [SQLite](https://sqlite.org/)
 
--   If possible, I will try to avoid using additional libraries or
-    frameworks.
+-   Later, the backend portion may be replaced with
+    [PocketBase](https://pocketbase.io).
 
 ### General
 
